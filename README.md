@@ -19,10 +19,3 @@
 
 ---
 
-## 🛠 Технологічний стек
-* **Мова програмування:** Python 3.x
-* **Основні бібліотеки:** Pandas, NumPy, Matplotlib, Seaborn
-* **Середовище:** Jupyter Notebook / VS Code
-* **Платформа навчання:** [Kaggle](https://www.kaggle.com/)
-
----

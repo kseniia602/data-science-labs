@@ -1,7 +1,9 @@
 pandas
 numpy
-urllib3
 jupyter
 notebook
 requests
 openpyxl
+matplotlib
+seaborn
+scipy

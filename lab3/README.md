@@ -8,6 +8,12 @@
 - **Python:** 3.8+
 - **Jupyter Notebook**
 
+## Встановлення залежностей
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
 ## Запуск
 - jupyter notebook
   

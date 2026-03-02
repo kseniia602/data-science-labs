@@ -51,3 +51,4 @@
 
 ## Вимоги до системи
 - **Python:** 3.8+
+- **Jupyter Notebook** 

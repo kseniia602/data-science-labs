@@ -1,9 +1,16 @@
 # Лабораторна робота №3 
 
-## Опис проєкту
+## Опис завдання
 
 Ця лабораторна робота присвячена візуалізації та аналізу даних датасету Adult (Census Income) з UCI Machine Learning Repository.
 
+## Вимоги до системи
+- **Python:** 3.8+
+- **Jupyter Notebook**
+
+## Запуск
+- jupyter notebook
+  
 ## Датасет
 
 **Назва:** Adult (Census Income) Dataset  
@@ -48,7 +55,3 @@
 - **Interactive Plotly Scatter** - інтерактивна візуалізація
 
 **Загальна кількість графіків:** 8
-
-## Вимоги до системи
-- **Python:** 3.8+
-- **Jupyter Notebook** 

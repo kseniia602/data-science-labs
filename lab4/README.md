@@ -24,8 +24,6 @@ pip install numpy scipy plotly ipywidgets
 
 ## Запуск
 * `jupyter notebook`
-* Відкрити файл `lab4.ipynb`
-* Запустити клітинки **по порядку** (Shift+Enter)
 
 ---
 

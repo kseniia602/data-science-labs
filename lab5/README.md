@@ -26,4 +26,3 @@ pip install -r requirements.txt
 * app.py — основний файл веб-додатка на Streamlit.
 * vhi_all_provinces.csv — набір даних для аналізу (результат ЛР №2).
 * requirements.txt — список необхідних бібліотек.
-*

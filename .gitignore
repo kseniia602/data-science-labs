@@ -214,7 +214,5 @@ __marimo__/
 .DS_Store
 
 # Data files
-*.txt
-*.csv
 *.json
 *.log
